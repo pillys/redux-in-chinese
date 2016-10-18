@@ -6,7 +6,7 @@
   "plugins": ["edit-link", "prism", "ga"],
   "pluginsConfig": {
     "edit-link": {
-      "base": "https://github.com/pillys/redux/tree/master",
+      "base": "https://github.com/camsong/redux-in-chinese/tree/master",
       "label": "开始纠错"
     },
     "ga": {
