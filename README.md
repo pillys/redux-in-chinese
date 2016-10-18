@@ -2,7 +2,7 @@
 
 <img src='https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67' height='60'>
 
-> 在线 Gitbook 地址：http://cn.redux.js.org/  http://www.redux.org.cn/  
+> 在线 Gitbook 地址：http://cn.redux.js.org/  http://www.redux.org.cn/
 > 英文原版：http://redux.js.org/  
 > 学了这个还不尽兴？推荐极精简的 [Redux Tutorial 教程](https://github.com/react-guide/redux-tutorial-cn#redux-tutorial)  
 > React 核心开发者写的 [React 设计思想](https://github.com/react-guide/react-basic)
